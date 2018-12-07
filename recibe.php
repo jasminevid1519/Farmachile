@@ -61,8 +61,8 @@
   <h2>ingresar datos:</h2>
 
   <?php
-  $sql = "insert into producto(nombre, precio, descripcion)
-  values('teclado pc',5000,'teclado genius')";
+  $sql = "insert into producto(nombre, codigo, stock, precio)
+  values('loratadina',5454787,2,2000)";
 
   #se realiza ingreso de datos []
 
