@@ -38,7 +38,7 @@
          $usurario = "root";
          $password = "root";
          #nombre de la bd.
-         $nombreBD = "empresa";
+         $nombreBD = "Farmacia";
 
           #se crea la conexion.
          $conexion = new mysqli($servidor, $usurario, $password, $nombreBD);
